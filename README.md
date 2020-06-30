@@ -56,4 +56,4 @@ The step method here returns four variables:
  python gamebot.py
  ```
  
- ![AI](https://github.com/AvinashRavichandran/AI-bot-game/edit/master/AI.gif)
+ ![AI](https://github.com/AvinashRavichandran/AI-bot-game/blob/master/AI.gif)
